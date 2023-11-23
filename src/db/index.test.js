@@ -1,5 +1,4 @@
-import { render, screen } from "@testing-library/react";
-import { initDB, addUser, getMessages } from "./"; // Update the path
+import { initDB, getMessages } from "./"; // Update the path
 
 describe("IndexedDB functions", () => {
   // Set up a virtual IndexedDB for testing

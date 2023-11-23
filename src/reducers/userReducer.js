@@ -1,4 +1,3 @@
-// src/reducers/userReducer.js
 import { SET_USERNAME } from "./userActions";
 
 const initialState = {
